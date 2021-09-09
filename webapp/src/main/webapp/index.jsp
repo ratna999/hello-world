@@ -7,3 +7,4 @@
 <h1> deploy on container using ansble</h1>
 <h1> deploying on container using ansible playbooks </h1>
 <h1> deployment on kubernets </h1>
+<h1> deploy on kubernets using ansible for ratna </h1>
