@@ -11,7 +11,7 @@ t root  21 Dec 26 11
 <h1> deploy on kubernets using ansible for ratna </h1>
 <form action="action_page.php">
   <div class="container">
-    <h1>Register</h1>
+    <h1> New User Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
